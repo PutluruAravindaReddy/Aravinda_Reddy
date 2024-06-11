@@ -1,5 +1,5 @@
-![Black Simple Daily Inspirational Quote LinkedIn Banner](https://github.com/Lohithchowdari/Lohithchowdari/assets/113517733/65c1b48d-3554-4117-91ef-eb803d5cd796)
-<h1 align="center">Hi 👋, I'm DUPATI LOHITH CHOWDARI</h1>
+
+<h1 align="center">Hi 👋, Aravinda Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithchowdari&label=Profile%20views&color=0e75b6&style=flat" alt="lohithchowdari" /> </p>
