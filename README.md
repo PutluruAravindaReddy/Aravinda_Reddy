@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aravindareddy60@gmail.com**
 
-- 📄 Know about my experiences [Ajaoaowowo](Ajaoaowowo)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Tek8McVJn5wRgJipmZ8X30pSZ5eqbpM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
